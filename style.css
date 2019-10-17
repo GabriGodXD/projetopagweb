@@ -1,0 +1,120 @@
+
+*{
+
+    
+
+    margin: 0px;
+
+    padding: 0px;
+
+    
+
+}
+
+
+body{
+
+    
+
+    background-color: #FDF5E6
+
+    font-family: Helvetica, Verdana
+
+    font-size: 15px;
+
+    
+
+    
+
+}
+
+
+
+header{
+
+    
+
+    padding: 5px;
+
+    background-color: #B8860B;
+
+    
+
+    
+
+}
+
+
+#secao1{
+
+    
+
+    background-color: #DAA520;
+
+    padding: 8px;
+
+    
+
+}
+
+
+#artigo1{
+
+    
+
+    background-color: #EEE8AA;
+
+    padding: 8px;
+
+    
+
+}
+
+
+#artigo2{
+
+    background-color: #EEE8AA;
+
+    padding: 8px;
+
+    
+
+    
+
+}
+
+
+
+A{
+
+    
+
+    color:#BBFFFF;
+
+    
+
+}
+
+
+a:hover{
+
+    
+
+    color: #00868B;
+
+    
+
+}
+
+
+a:visited{
+
+    
+
+    color: #7A8B8B;
+
+    
+
+}
+
+
